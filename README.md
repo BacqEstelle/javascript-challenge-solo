@@ -1,6 +1,6 @@
 # javascript-challenge-solo
 
-#### Ce **Projet** a été réalisé dans le cadre de la formation __*BeCode*__ ;
+#### Ce **Projet** a été réalisé dans le cadre de la formation __*BeCode*__ 
 
 ********************************
 
